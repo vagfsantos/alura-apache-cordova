@@ -10,4 +10,9 @@
 
 	<icon src="imagens/icon.png"/>
 	<gap:splash src="imagens/splash.png"/>
+
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+
+	<gap:plataform name="android"/>
 </widget>
